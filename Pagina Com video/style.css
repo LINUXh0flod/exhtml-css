@@ -1,0 +1,105 @@
+/*FORMATAÇOES*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: black;
+  
+}
+a{
+  text-decoration: none;
+}
+
+.container {
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
+ 
+}
+
+/*=====HEADER=======*/
+
+
+main {
+  overflow: hidden;
+}
+
+.title {
+  position: relative;
+  left: 24rem;
+  color: azure;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 35px;
+}
+
+#header {
+  border-bottom: 3px solid red;
+  height: 4rem;
+}
+
+/*====HOME*/
+#home {
+  overflow: hidden;
+}
+#home {
+  position: relative;
+  left: 11rem;
+  margin-top: 8rem;
+}
+
+.img4 {
+  position: relative;
+}
+
+.botao3 {
+  position: relative;
+ background-color: brown;
+ height: 2rem;
+ padding: 0 2rem;
+ border-radius: 2.5rem;
+ display: inline-flex;
+ align-items: center;
+ left: 37rem;
+ margin-top: 10rem;
+}
+
+/*=====HOME 2========*/
+#home2{
+  position: relative;
+  left: 17rem;
+  margin-top: 3rem;
+} 
+
+
+.title2 {
+  position: relative;
+  left: 26rem;
+  color: azure;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 35px;
+}
+
+.botao {
+  position: relative;
+ background-color: brown;
+ height: 2rem;
+ padding: 0 2rem;
+ border-radius: 2.5rem;
+ display: inline-flex;
+ align-items: center;
+ left: 16rem;
+ margin-top: 3rem;
+}
+
+.vj {
+  position: relative;
+  
+}
+
+.title3 {
+  position: relative;
+  left: 23rem;
+  color: azure;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 35px;
+}
